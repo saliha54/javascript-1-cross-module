@@ -18,22 +18,24 @@ ui is dom, output is console, reading sources
   * data: var a, var b
   * button to call add, subtract, multiply, divide
 
-|   | html | functions | data |
+| __index.html__  | html | functions | data |
 | --- | --- | --- | --- |
-| home page | index.html with some greetings, script tag | none | none |
-| print project details | index.html: a button with onclick attribute | print_deets: takes in an object and prints it | project object with 3 properties: name (string), link (string), description (string) |
+| home page | a project h1 and some greetings, script tag | none | none |
+| print project details | a button with onclick attribute | print_deets: takes in an object and prints it | project object with 3 properties: name (string), link (string), description (string) |
+| team page | relative link to team.html | none | none |
+| calc page | relative link to calc.html | none | none |
 
-|   | html | functions | data |
+| __team.html__ | html | functions | data |
 | --- | --- | --- | --- |
-| team page | team.html: relative link to index.html, script tag. index.html: relative link to team.html | none | none |
-| print team name | team.html: button with onclick attribute | print_team_name: take a string as an argument and logs it in a greeting | team_name variable, string. |
-| print team members | team.html: button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
+| team page | relative link to index.html, script tag | none | none |
+| print team name | button with onclick attribute | print_team_name: take a string as an argument and logs it in a greeting | team_name variable, string. |
+| print team members | button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
 | complete introduction | button with onclick attribute | introduce: takes a string and an array, calls the team name function with the string, and the team members function with the array | none |
 
-|   | html | functions | data |
+| __calc.html__ | html | functions | data |
 | --- | --- | --- | --- |
-| calc page | calc.html: relative link to index.html, script tag. index.html: relative link to calc.html | none | array of numbers |
-| print numbers | calc.html: button with onclick | print_numbers: takes in an array and logs it | none |
+| calc page | relative link to index.html, script tag | none | array of numbers |
+| print numbers | button with onclick | print_numbers: takes in an array and logs it | none |
 
 
 
