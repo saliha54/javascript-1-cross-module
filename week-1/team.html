@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+
+  <script>
+    var team_name = "kamti";
+    function print_team_name(str) {
+      console.log("we are team " + str + "!");
+    }
+    
+    var team_members = ['r', 'o', 'b'];
+    function print_team_members(arr) {
+      console.log("team members:");
+      console.log(arr);
+    }
+    
+    function introduce(name, members) {
+      console.log("welcome to our team page!");
+      print_team_name(name);
+      print_team_members(members);
+    }
+  </script>
+</head>
+
+<body>
+  <h1>the team</h1>
+  <p>
+    a little intro to our team
+  </p>
+  <button onclick="print_team_name(team_name)">team name</button> <br>
+  <button onclick="print_team_members(team_members)">team members</button> <br>
+  <button onclick="introduce(team_name, team_members)">full intro<button> <br>
+  <hr> 
+  <a href="./index.html">home</a> <br>
+</body>
+</html>
