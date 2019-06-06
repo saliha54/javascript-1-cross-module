@@ -32,7 +32,7 @@
 
 |  | html | functions | data |
 | --- | --- | --- | --- |
-| team page | relative link to index.html, script tag | none | none |
+| team page | relative link to index.html, script tag, h1, greeting | none | none |
 | print team name | button with onclick attribute | print_team_name: take a string as an argument and logs it in a greeting | team_name variable, string. |
 | print team members | button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
 | complete introduction | button with onclick attribute | introduce: takes a string and an array, calls the team name function with the string, and the team members function with the array | none |
@@ -41,7 +41,7 @@
 
 |  | html | functions | data |
 | --- | --- | --- | --- |
-| calc page | relative link to index.html, script tag | none | array of numbers |
+| calc page | relative link to index.html, script tag, h1, greeting | none | array of numbers |
 | print numbers | button with onclick | print_numbers: takes in an array and logs it | none |
 
 ---
