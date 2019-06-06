@@ -21,28 +21,30 @@
 
 ### index.html:
 
-|   | html | functions | data |
+| __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
-| home page | a project h1 and some greetings, script tag | none | none |
-| print project details | a button with onclick attribute | print_deets: takes in an object and prints it | project object with 3 properties: name (string), link (string), description (string) |
-| team page | relative link to team.html | none | none |
-| calc page | relative link to calc.html | none | none |
+| _visit the home page_ | a project h1 and some greetings, script tag | none | none |
+| _print project details to the console_ | a button with onclick attribute | print_deets: takes in an object and prints it | project object with 3 properties: name (string), link (string), description (string) |
+| _navigate to the team page_ | relative link to team.html | none | none |
+| _navigate to the calculator_ | relative link to calc.html | none | none |
 
 ### team.html:
 
-|  | html | functions | data |
+| __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
-| team page | relative link to index.html, script tag, h1, greeting | none | none |
-| print team name | button with onclick attribute | print_team_name: take a string as an argument and logs it in a greeting | team_name variable, string. |
-| print team members | button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
-| complete introduction | button with onclick attribute | introduce: takes a string and an array, calls the team name function with the string, and the team members function with the array | none |
+| _visit the team page_ | script tag, h1, greeting | none | none |
+| _navigate back to home_ | relative link to index.html | none | none |
+| _print team name to the console_ | button with onclick attribute | print_team_name: take a string as an argument and logs it in a greeting | team_name variable, string. |
+| _print team members to the console_ | button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
+| _print a complete introduction to the console_ | button with onclick attribute | introduce: takes a string and an array, calls the team name function with the string, and the team members function with the array | none |
 
 ### calc.html:
 
-|  | html | functions | data |
+| __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
-| calc page | relative link to index.html, script tag, h1, greeting | none | array of numbers |
-| print numbers | button with onclick | print_numbers: takes in an array and logs it | none |
+| _visit the calculator_ | script tag, h1, greeting | none | none |
+| _navigate to home page_ | relative link to index.html | none | none |
+| _print array of numbers to console_ | button with onclick | print_numbers: takes in an array and logs it | array of numbers |
 
 ---
 
