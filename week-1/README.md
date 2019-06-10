@@ -1,14 +1,20 @@
-**Week 1**
+# Week 1
 
-* **Landing page**: `console.log` *project* object with `"name"`, `"link"` & `"description"` of website the team is going to recreate
+
+* **Home page**:
+    * _data_: *project* object with `"name"`, `"link"` & `"description"` of website the team is going to recreate
+    * _functions_: `console.log` the project object
 * **Team page**: 
-  * data: team name, array of members
-  * print team name, print team members array, function that does both
+    * _data_: team name, array of members
+    * _functions_: print team name, print team members array, function that does both
 * **Calculator page**: `console.log` array of numbers (`strings`)
-  * data: var a, var b
-  * button to call add, subtract, multiply, divide
+    * _data_: var a, var b
+    * _functions_: add, subtract, multiply, divide
 
-### index.html:
+
+---
+
+## Home Page (index.html):
 
 | __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
@@ -17,7 +23,11 @@
 | _navigate to the team page_ | relative link to team.html | none | none |
 | _navigate to the calculator_ | relative link to calc.html | none | none |
 
-### team.html:
+[TOP](#week-1)
+
+---
+
+## Team Page (team.html):
 
 | __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
@@ -27,10 +37,24 @@
 | _print team members to the console_ | button with onclick attribute | print_team_members: takes an array, prints something like "your team members:", then prints the array | an array of team member names (strings) |
 | _print a complete introduction to the console_ | button with onclick attribute | introduce: takes a string and an array, calls the team name function with the string, and the team members function with the array | none |
 
-### calc.html:
+[TOP](#week-1)
+
+---
+
+## Calculator Page (calc.html):
 
 | __a user can ...__ | _html_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
 | _visit the calculator_ | script tag, h1, greeting | none | none |
 | _navigate to home page_ | relative link to index.html | none | none |
-| _print array of numbers to console_ | button with onclick | print_numbers: takes in an array and logs it | array of numbers |
+| _log `a` and `b`_ | button with onclick | print_vals: takes in `a` and `b`, logs them to the console | var a, var b.  both hardcoded numbers, you'll learn to change the values later |
+| _add_ | button with onclick -> ```js console.log(add(a, b));``` | add: takes in a & b, adds them, returns the result | none |
+| _subtract_ | button with onclick -> ```js console.log(subtract(a, b));``` | subtract: takes in a & b, subtracts them, returns the result | none |
+| _multiply_ | button with onclick -> ```js console.log(multiply(a, b));``` | multiply: takes in a & b, multiplies them, returns the result | none |
+| _divide_ | button with onclick -> ```js console.log(divide(a, b));``` | divide: takes in a & b, divides them, returns the result | none |
+
+[TOP](#week-1)
+
+___
+___
+### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>

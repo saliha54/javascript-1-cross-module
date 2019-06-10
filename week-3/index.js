@@ -1,1 +1,5 @@
-index.js
+// data (variables)
+
+
+
+// functions

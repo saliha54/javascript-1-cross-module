@@ -1,4 +1,6 @@
-js in a separate file
+header and footer
+  same on all pages
+  navs to anywhere from anywhere
 
 
 **Week2**
