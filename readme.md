@@ -82,7 +82,7 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 | Calc page | | | | |
 
 
-### Week 2 Check-Off
+### Week 3 Check-Off
 
 
 |  | your Emoji | your comments | coach emoji | coach comments |
