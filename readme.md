@@ -66,9 +66,9 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w1/index.html) | | | | |
-| Team page (./w1/team.html) | | | | |
-| Calculator page (./w1/calc.html) | | | | |
+| Home page (index.html) | | | | |
+| Team page (team.html) | | | | |
+| Calculator page (calc.html) | | | | |
 
 
 
@@ -77,12 +77,12 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w2/index.html) | | | | |
-| Home page (./w2/data-&-functions.js) | | | | |
-| Team page (./w2/team/index.html) | | | | |
-| Team page (./w2/team/data-&-functions.js) | | | | |
-| Calc page (./w2/calc/index.html) | | | | |
-| Calc page (./w2/calc/data-&-functions.js) | | | | |
+| Home page (index.html) | | | | |
+| Home page (data-&-functions.js) | | | | |
+| Team page (team/index.html) | | | | |
+| Team page (team/data-&-functions.js) | | | | |
+| Calc page (calc/index.html) | | | | |
+| Calc page (calc/data-&-functions.js) | | | | |
 
 
 ### Week 2 Check-Off
@@ -90,15 +90,15 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w3/index.html) | | | | |
-| Home page (./w3/data-&-functions.js) | | | | |
-| Home page (./w3/event-listeners.js) | | | | |
-| Team page (./w3/team/index.html) | | | | |
-| Team page (./w3/team/data-&-functions.js) | | | | |
-| Team page (./w3/team/event-listeners.js) | | | | |
-| Calc page (./w3/calc/index.html) | | | | |
-| Calc page (./w3/calc/data-&-functions.js) | | | | |
-| Calc page (./w3/calc/event-listeners.js) | | | | |
+| Home page (index.html) | | | | |
+| Home page (data-&-functions.js) | | | | |
+| Home page (event-listeners.js) | | | | |
+| Team page (team/index.html) | | | | |
+| Team page (team/data-&-functions.js) | | | | |
+| Team page (team/event-listeners.js) | | | | |
+| Calc page (calc/index.html) | | | | |
+| Calc page (calc/data-&-functions.js) | | | | |
+| Calc page (calc/event-listeners.js) | | | | |
 
 
 
