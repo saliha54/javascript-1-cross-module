@@ -8,11 +8,16 @@ The project is structured to provide you with guided support for certain key con
 * __Structuring Code__: The assignment tables will not only split your project into user stories to develop one at a time, but will also outline what code needs to be written for each user story.  For JS-1 this means separating the data (variables) from your functions and keeping your JavaScript separate from your HTML. 
 * __Refactoring__: "same behavior, different code".  It's really that simple at the beginning.  If you change the code written in your folder (hopefully to make it more readable!) but can't tell a difference when you open the website in your browser, you've successfully refactored your code.  In weeks 2 & 3 you will be asked to refactor the code you wrote the week before into a new structure before adding that week's user stories.
 
-Besides those 4 learning objectives, everything else about these projects is open-ended.  As long as you stick to the structures we've provided and develop the user stories in order you are free to explore, experiment, and find your own way!  
+Besides those 4 learning objectives, everything else about these projects is open-ended.  As long as you stick to the structures we've provided and develop the user stories in order you are free to explore, experiment, and find your own way.  The homework exercises ask you to understand everything you do in depth.  These projects just ask you to hack it till it works, so have it!
 
 ### Index
 * [project description](#project-description)
 * [learning objectives](#learning-objectives)
+* tracking & feedback
+    * [emoji dictionary](#emoji-dictionary)
+    * [week 1 check-off](#week-1-check-off)
+    * [week 2 check-off](#week-2-check-off)
+    * [week 3 check-off](#week-3-check-off)
 * [resources](#resources)
 
 ---
@@ -35,12 +40,77 @@ Besides those 4 learning objectives, everything else about these projects is ope
 * Team work (groups of 2-3)
 * Applying what you learn in a realistic context
 
+---
+
+## Tracking & Feedback
+
+
+### Emoji Dictionary
+
+| emoji | who uses it | meaning |
+| --- | --- | --- |
+|  :wavy_dash: | student | started, in progress  | 
+| :question: | student | need help (after asking your fellow students!) | 
+| :white_check_mark: | student | think it's done | 
+| :white_check_mark: | coaches | homework is checked and OK |
+| :warning: | coaches | homework has a few issues, see comments and send a message on slack |
+| :shipit: | coaches | we've posted an answer to your question  | 
+| :star2: | coaches | you did something awesome |
+
+and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fun.
+
+
+
+### Week 1 Check-Off
+
+
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| Home page (./w1/index.html) | | | | |
+| Team page (./w1/team.html) | | | | |
+| Calculator page (./w1/calc.html) | | | | |
+
+
+
+### Week 2 Check-Off
+
+
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| Home page (./w2/index.html) | | | | |
+| Home page (./w2/data-&-functions.js) | | | | |
+| Team page (./w2/team/index.html) | | | | |
+| Team page (./w2/team/data-&-functions.js) | | | | |
+| Calc page (./w2/calc/index.html) | | | | |
+| Calc page (./w2/calc/data-&-functions.js) | | | | |
+
+
+### Week 2 Check-Off
+
+
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| Home page (./w3/index.html) | | | | |
+| Home page (./w3/data-&-functions.js) | | | | |
+| Home page (./w3/event-listeners.js) | | | | |
+| Team page (./w3/team/index.html) | | | | |
+| Team page (./w3/team/data-&-functions.js) | | | | |
+| Team page (./w3/team/event-listeners.js) | | | | |
+| Calc page (./w3/calc/index.html) | | | | |
+| Calc page (./w3/calc/data-&-functions.js) | | | | |
+| Calc page (./w3/calc/event-listeners.js) | | | | |
+
+
+
+[TOP](#javascript-1-project)
+
 
 ---
 
 ## Resources
 
 
+[TOP](#javascript-1-project)
 
 ___
 ___
