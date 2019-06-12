@@ -31,7 +31,7 @@
 
 ---
 
-## Team Page (
+## Team Page 
 
 * ./team/index.html
 * ./team/data-&-functions.js
@@ -51,7 +51,7 @@
 
 ---
 
-## Calculator Page (calc.html):
+## Calculator Page 
 
 * ./calc/index.html
 * ./calc/data-&-functions.js
