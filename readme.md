@@ -51,10 +51,10 @@ Besides those 4 learning objectives, everything else about these projects is ope
 | --- | --- | --- |
 |  :wavy_dash: | student | started, in progress  | 
 | :question: | student | need help (after asking your fellow students!) | 
-| :white_check_mark: | student | think it's done | 
+| :white_check_mark: | student | you think it's done, check please! | 
 | :white_check_mark: | coaches | homework is checked and OK |
-| :warning: | coaches | homework has a few issues, see comments and send a message on slack |
-| :shipit: | coaches | we've posted an answer to your question  | 
+| :warning: | coaches | homework has a few issues, see comments and keep in touch on a new issue |
+| :shipit: | coaches | there's an answer to your question, in the comments and/or an issue  | 
 | :star2: | coaches | you did something awesome |
 
 and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fun.
