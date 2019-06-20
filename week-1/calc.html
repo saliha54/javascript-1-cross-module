@@ -8,13 +8,39 @@
 
   <script type="text/javascript">
     // data (variables)
-
+    var a = 5;
+    var b = 2;
+ 
+   
     // functions
+    function add (a,b) {
+      return a+b;
+    }
+    function subtract (a,b) {
+      return a-b;
+    }
+    function multiply (a,b) {
+      return a*b;
+    }
+    function divide (a,b) {
+      return a/b;
+    }
 
   </script>
 </head>
 
 <body>
+  <h1> CALCULATOR </h1>
+  <p> Hello user. Hello world.</p>
+  <br>
+  <a href="./index.html">HOME</a> 
+  <br>
+  <button onclick="console.log(a,b);">A and B</button> <br>
+  <button onclick="console.log(add(a, b));">ADD</button> <br>
+  <button onclick="console.log(subtract(a, b));">SUBTRACT</button> <br>
+  <button onclick="console.log(multiply(a, b));">MULTIPLY</button> <br>
+  <button onclick="console.log(divide(a, b));">DIVIDE</button> <br>
+  
 
 
 </body>
