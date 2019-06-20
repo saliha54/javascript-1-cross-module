@@ -8,13 +8,37 @@
 
   <script type="text/javascript">
     // data (variables)
-
+    var teamName = "HAYALLEE";
+    var teamMembers = ["Zumrut","Sedef","Yakut"];
     // functions
+    function print_team_name (team_name){
+      console.log("Team name is "+team_name);
+    }
+    function print_team_members (team_members){
+      console.log("Team members are")
+      for (var i = 0; i < team_members.length ; i++)
+      {
+        console.log(" "+team_members[i]);
+      }
+    }
+    function introduce (team_name,team_members){
+      print_team_name(team_name);
+      print_team_members(team_members);
+    }
+    
 
   </script>
 </head>
 
 <body>
+  <h1> TEAM </h1>
+  <p> Hello visitor. Hello world.</p>
+  <br>
+  <a href="./index.html">HOME</a> 
+  <br>
+  <button onclick="introduce(teamName,teamMembers);">INTRO</button> <br>
+  <button onclick="print_team_name(teamName);">TEAM NAME</button> <br>
+  <button onclick="print_team_members(teamMembers);">TEAM MEMBERS</button> <br>
 
 </body>
 </html>
