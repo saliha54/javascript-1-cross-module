@@ -51,10 +51,10 @@ Besides those 4 learning objectives, everything else about these projects is ope
 | --- | --- | --- |
 |  :wavy_dash: | student | started, in progress  | 
 | :question: | student | need help (after asking your fellow students!) | 
-| :white_check_mark: | student | think it's done | 
+| :white_check_mark: | student | you think it's done, check please! | 
 | :white_check_mark: | coaches | homework is checked and OK |
-| :warning: | coaches | homework has a few issues, see comments and send a message on slack |
-| :shipit: | coaches | we've posted an answer to your question  | 
+| :warning: | coaches | homework has a few issues, see comments and keep in touch on a new issue |
+| :shipit: | coaches | there's an answer to your question, in the comments and/or an issue  | 
 | :star2: | coaches | you did something awesome |
 
 and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fun.
@@ -66,9 +66,9 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w1/index.html) | | | | |
-| Team page (./w1/team.html) | | | | |
-| Calculator page (./w1/calc.html) | | | | |
+| Home page | | | | |
+| Team page | | | | |
+| Calc page | | | | |
 
 
 
@@ -77,28 +77,19 @@ and [a whole bunch more emojis](https://gist.github.com/rxaviers/7360908) for fu
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w2/index.html) | | | | |
-| Home page (./w2/data-&-functions.js) | | | | |
-| Team page (./w2/team/index.html) | | | | |
-| Team page (./w2/team/data-&-functions.js) | | | | |
-| Calc page (./w2/calc/index.html) | | | | |
-| Calc page (./w2/calc/data-&-functions.js) | | | | |
+| Home page | | | | |
+| Team page | | | | |
+| Calc page | | | | |
 
 
-### Week 2 Check-Off
+### Week 3 Check-Off
 
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page (./w3/index.html) | | | | |
-| Home page (./w3/data-&-functions.js) | | | | |
-| Home page (./w3/event-listeners.js) | | | | |
-| Team page (./w3/team/index.html) | | | | |
-| Team page (./w3/team/data-&-functions.js) | | | | |
-| Team page (./w3/team/event-listeners.js) | | | | |
-| Calc page (./w3/calc/index.html) | | | | |
-| Calc page (./w3/calc/data-&-functions.js) | | | | |
-| Calc page (./w3/calc/event-listeners.js) | | | | |
+| Home page  | | | | |
+| Team page | | | | |
+| Calc page | | | | |
 
 
 

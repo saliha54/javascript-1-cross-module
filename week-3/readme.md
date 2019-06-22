@@ -1,22 +1,13 @@
-separate js files
-event listeners
-
-**Week3**
-
-* **Team page**: Create a function called `addTeamMember` that takes a name, age and profession, creates an object of that team member and adds the team member object to an array.
-* **Calculator page**: Create different functions called `sum`, `subtract`, `multiply` & `divide` that each loop every number in the array and perform their operation
-
-
 # Week 3  
 
 * **Home page**:
     * _data_: **project** object with `"name"`, `"link"` & `"description"` of website the team is going to recreate
     * _functions_: A function that loops over the object, printing each property
 * **Team page**: 
-    * _data_: team name, array of members
+    * _data_: team name, array of members (users can add to this array)
     * _functions_: print team name, print team members by looping over array, function that does both
 * **Calculator page**: 
-    * _data_: var a, var b
+    * _data_: var a, var b, (users can update these values)
     * _functions_: add, subtract, multiply, divide, a higher-order function that does math
 
 > handlers read from & write to the user. they'll call your data and functions from global scope
@@ -37,15 +28,17 @@ event listeners
 | _navigate to the calculator_ | relative link to calc.html in the header | none | none | none | none |
 
 
+
 [TOP](#week-2)
 
 ---
 
-## Team Page (
+## Team Page 
 
 * ./team/index.html
 * ./team/data-&-functions.js
 * ./team/event-listeners.js
+
 
 | __a user can ...__ | _html_ | _event listeners_ | _handlers_ | _functions_ | _data_ |
 | --- | --- | --- | --- |
@@ -61,7 +54,7 @@ event listeners
 
 ---
 
-## Calculator Page (calc.html):
+## Calculator Page 
 
 * ./calc/index.html
 * ./calc/data-&-functions.js
@@ -80,7 +73,6 @@ event listeners
 | _subtract_ | button with  unique id | ev.lis to call -> | calls "do_math" with ```a```, ```b```, ```subtract``` | subtract: takes in a & b, subtracts them, returns the result | none |
 | _multiply_ | button with  unique id | ev.lis to call -> | calls "do_math" with ```a```, ```b```, ```multiply``` |  multiply: takes in a & b, multiplies them, returns the result | none |
 | _divide_ | button with  unique id | ev.lis to call -> | calls "do_math" with ```a```, ```b```, ```divide``` | divide: takes in a & b, divides them, returns the result | none |
-
 
 
 [TOP](#week-2)
