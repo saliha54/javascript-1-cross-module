@@ -12,6 +12,19 @@
 
 > try writing your data and functions separately, before connecting them to your HTML
 
+
+---
+
+##  Check-Off
+
+
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| Home page | | | | |
+| Team page | | | | |
+| Calc page | | | | |
+
+
 ---
 
 ## Home Page 

@@ -14,6 +14,18 @@
 
 ---
 
+##  Check-Off
+
+
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| Home page  | | | | |
+| Team page | | | | |
+| Calc page | | | | |
+
+
+---
+
 ## Home Page 
 
 * ./index.html
