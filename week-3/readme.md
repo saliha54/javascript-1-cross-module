@@ -33,7 +33,7 @@
 * ./event-listeners.js
 
 | __a user can ...__ | _html_ | _event listeners_ | _handlers_ | _functions_ | _data_ |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | _visit the home page_ | a project h1, some greetings, header/navbar & footer | none | none | none | none |
 | _print project details to the console_ | a button with a unique id | an onclick listener taking a callback that calls it's handler with the project object | calls "print_deets" with the object as argument | print_deets: takes in an object and and loops over it.  use template literals and bracket access | project object with 3 properties: name (string), link (string), description (string) |
 | _navigate to the team page_ | relative link to team.html in the header | none | none | none | none |
@@ -53,7 +53,7 @@
 
 
 | __a user can ...__ | _html_ | _event listeners_ | _handlers_ | _functions_ | _data_ |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | _visit the team page_ | h1, greeting, header/navbar & footer | none | none | none | none |
 | _navigate back to home_ | relative link to index.html in header | none | none | none | none |
 | _navigate to calc_ | relative link to calc/index.html in header | none | none | none | none |
@@ -73,7 +73,7 @@
 * ./calc/event-listeners.js
 
 | __a user can ...__ | _html_ | _event listeners_ | _handlers_ | _functions_ | _data_ |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | _visit the calculator_ | h1, greeting, header/navbar & footer | none | none | none | none |
 | _navigate to home page_ | relative link to index.html | none | none | none | none |
 | _navigate to team_ | relative link to team/index.html in header | none | none | none | none |
