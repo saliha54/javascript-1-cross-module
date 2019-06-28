@@ -4,7 +4,7 @@ var team_members = ["blue","green","pink","purple","yellow"];
 
 // functions
 function print_team_name(teamName) {
-    console.log("Team name is ${teamName}");
+    console.log("Team name is"+ teamName);
 }
 function print_team_members(teamMembers){
     console.log("Team members are ");
